@@ -1,4 +1,4 @@
-/* Stylesheet: skeleton.css */
+/* Stylesheet: all.css */
 
 /*
 - Will be replaced by `skeleton.css` in the next major release.
@@ -19,7 +19,6 @@
 
 /* Typography Settings */
 @import 'partials/typography.css';
-@import 'partials/typography-prose.css';
 
 /* === REQUIRED STYLESHEETS === */
 
